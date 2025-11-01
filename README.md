@@ -1,6 +1,6 @@
 # Pokemon Gold RL Training
 
-Reinforcement Learning agent for Pokemon Gold using PPO (Proximal Policy Optimization) and PyBoy emulator.
+reinforcement Learning agent for Pokemon Gold using PPO (Proximal Policy Optimization) and PyBoy emulator. it's very much a work in progress, dont expect much.
 
 ## Project Structure
 
