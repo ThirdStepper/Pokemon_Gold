@@ -1,0 +1,12 @@
+\.venv3_12
+\_logs
+\_models
+*.pyc
+*.gbc
+*.sym
+*.map
+*.rtc
+*.ram
+*.state
+*.sav
+*.asm

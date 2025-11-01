@@ -1,0 +1,16 @@
+# Pokemon Gold RL Training Dependencies
+# Install all dependencies with: pip install -r requirements.txt
+
+# Core RL Framework
+gymnasium>=0.29.0         # RL environment interface (successor to gym)
+stable-baselines3>=2.0.0  # PPO and other RL algorithms
+numpy>=1.24.0            # Array operations and numerical computing
+
+# Game Boy Emulator
+pyboy>=2.0.0             # Game Boy emulator
+
+# Training Monitoring & Logging
+tensorboard>=2.15.0      # Training visualization and metrics
+
+# Note: Python standard library modules (pathlib, time, os, collections,
+# typing, io, threading) are included with Python and don't need installation.
